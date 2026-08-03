@@ -11,4 +11,6 @@ This project strengthened my proficiency in Python programming, object-oriented 
 **Technologies Used:** Python, Gymnasium, Stable-Baselines3, PyTorch, NumPy, Pygame, Matplotlib, Git.
 Results 
 <img width="859" height="470" alt="image" src="https://github.com/user-attachments/assets/9de9fcd0-c42d-4009-8243-f125e415236c" />
+<img width="1785" height="1180" alt="image" src="https://github.com/user-attachments/assets/06272a3b-65ca-4465-88a0-7d8e64b908b5" />
+
 
